@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @PallaviMoulick
-- 👀 I’m interested in natural language processing, predictive modeling, data analysis and reporting
-- 🌱 I’m currently practicing on my machine learning skills
-- 💞️ I’m looking to collaborate on ML projects and challenges
+-  Watch my journey from Data Analytics -> Software Engineering
 - 📫 Reach me at pmoulick21@gmail.com
 
 <!---
