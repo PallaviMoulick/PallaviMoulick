@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @PallaviMoulick
--  Watch my journey from Data Analytics -> Software Engineering
+- 👋 Hi, Follow my journey from Data Analytics -> Software Engineering
 - 📫 Reach me at pmoulick21@gmail.com
 
 <!---
