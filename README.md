@@ -1,4 +1,4 @@
-- 👋 Hi, Follow my journey from Data Analytics -> Software Engineering
+- 👋 All things Data Science & Software Engineering
 - 📫 Reach me at pmoulick21@gmail.com
 
 <!---
